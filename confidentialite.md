@@ -64,8 +64,9 @@ Rythmo ne l'envoie nulle part de lui-même.
 ## 5. Autres connexions
 
 - **Recherche de mise à jour :** Rythmo lit un petit fichier public sur GitHub (`version.json`) pour savoir si une
-  nouvelle version existe. Aucune donnée personnelle n'est envoyée ; comme pour tout site web, GitHub reçoit les
-  informations techniques de connexion (adresse IP).
+  nouvelle version existe et, quand vous acceptez la mise à jour, en télécharge le fichier d'installation depuis GitHub.
+  Aucune donnée personnelle n'est envoyée ; comme pour tout site web, GitHub reçoit les informations techniques de
+  connexion (adresse IP).
 - **Voix pendant les séances guidées :** elle utilise le moteur de synthèse vocale installé sur votre téléphone.
 
 ## 6. Conservation et suppression

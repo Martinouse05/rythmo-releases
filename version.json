@@ -2,12 +2,12 @@
  "version": "0.15",
  "url": "https://github.com/Martinouse05/rythmo-releases/raw/main/Rythmo.apk",
  "release": {
-  "version": "0.17",
+  "version": "0.18",
   "url": "https://github.com/Martinouse05/rythmo-releases/raw/main/Rythmo.apk",
   "sig": "release",
   "notes": {
-   "fr": "Première version officielle de Rythmo, signée avec sa clé définitive : les prochaines mises à jour s'installeront directement par-dessus, sans rien perdre. Vos données sont copiées automatiquement dans le téléphone, la sauvegarde est complète, l'appli s'affiche correctement sans connexion et prend en charge Android 16. Lien vers la politique de confidentialité dans Réglages.",
-   "en": "First official version of Rythmo, signed with its permanent key: future updates will install directly over it without losing anything. Your data is copied automatically to the phone, backups are complete, the app displays correctly offline and supports Android 16. Privacy policy link in Settings."
+   "fr": "Nouvelle icône (un R en couloirs de piste), icônes plus sobres à la place des emojis, et mises à jour qui se téléchargent directement dans l'appli : un seul geste pour confirmer.",
+   "en": "New icon (an R drawn as running-track lanes), cleaner icons instead of emojis, and updates that download right inside the app: one tap to confirm."
   }
  },
  "date": "2026-11-09"
